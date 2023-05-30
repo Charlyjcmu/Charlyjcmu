@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 <!--
 **Charlyjcmu/Charlyjcmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Studied Statistics and Machine Learning at Carnegie Mellon University.
+- Interested in machine learning projects and pipeline.
+- I enjoy disassembling things and journaling.
